@@ -42,7 +42,7 @@
 	</script>
 </head>
 <body>
-	<!--  Row 1 -->
+	<!--  Row 1 --> 
 	<div class="col-sm-12 col-xl-12">
 		<div class="row">
 			<c:forEach items="${list}" var="ii" >
